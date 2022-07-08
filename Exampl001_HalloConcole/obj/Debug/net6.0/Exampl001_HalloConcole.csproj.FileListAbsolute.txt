@@ -1,0 +1,15 @@
+C:\Users\sergchir\Examples\Exampl001_HalloConcole\bin\Debug\net6.0\Exampl001_HalloConcole.exe
+C:\Users\sergchir\Examples\Exampl001_HalloConcole\bin\Debug\net6.0\Exampl001_HalloConcole.deps.json
+C:\Users\sergchir\Examples\Exampl001_HalloConcole\bin\Debug\net6.0\Exampl001_HalloConcole.runtimeconfig.json
+C:\Users\sergchir\Examples\Exampl001_HalloConcole\bin\Debug\net6.0\Exampl001_HalloConcole.dll
+C:\Users\sergchir\Examples\Exampl001_HalloConcole\bin\Debug\net6.0\Exampl001_HalloConcole.pdb
+C:\Users\sergchir\Examples\Exampl001_HalloConcole\obj\Debug\net6.0\Exampl001_HalloConcole.csproj.AssemblyReference.cache
+C:\Users\sergchir\Examples\Exampl001_HalloConcole\obj\Debug\net6.0\Exampl001_HalloConcole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergchir\Examples\Exampl001_HalloConcole\obj\Debug\net6.0\Exampl001_HalloConcole.AssemblyInfoInputs.cache
+C:\Users\sergchir\Examples\Exampl001_HalloConcole\obj\Debug\net6.0\Exampl001_HalloConcole.AssemblyInfo.cs
+C:\Users\sergchir\Examples\Exampl001_HalloConcole\obj\Debug\net6.0\Exampl001_HalloConcole.csproj.CoreCompileInputs.cache
+C:\Users\sergchir\Examples\Exampl001_HalloConcole\obj\Debug\net6.0\Exampl001_HalloConcole.dll
+C:\Users\sergchir\Examples\Exampl001_HalloConcole\obj\Debug\net6.0\refint\Exampl001_HalloConcole.dll
+C:\Users\sergchir\Examples\Exampl001_HalloConcole\obj\Debug\net6.0\Exampl001_HalloConcole.pdb
+C:\Users\sergchir\Examples\Exampl001_HalloConcole\obj\Debug\net6.0\Exampl001_HalloConcole.genruntimeconfig.cache
+C:\Users\sergchir\Examples\Exampl001_HalloConcole\obj\Debug\net6.0\ref\Exampl001_HalloConcole.dll
